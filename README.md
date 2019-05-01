@@ -1,5 +1,5 @@
 # Fix (- 2019. 05. 01.)
-- fix outdated regex syntex
+- fix outdated crawling syntex
 
 # FEATURES
 - download quizzes and practice quizzes.
