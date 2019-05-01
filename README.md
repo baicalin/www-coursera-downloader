@@ -4,8 +4,8 @@
 # FEATURES
 - download quizzes and practice quizzes.
 - download all video lectures;
-- download vtt subtitles;
-- automatic conversion of vtt to srt format;
+- ~~download vtt subtitles~~;
+- ~~automatic conversion of vtt to srt format~~;
 - read html readings and save to html file;
 - creation of m3u playlist.
 
