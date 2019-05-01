@@ -1,4 +1,4 @@
-# Adjustments (- 2019. 05. 01.)
+# Fix (- 2019. 05. 01.)
 - fix outdated regex syntex
 
 # FEATURES
