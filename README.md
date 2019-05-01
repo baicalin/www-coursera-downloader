@@ -1,3 +1,6 @@
+# Adjustments (- 2019. 05. 01.)
+- fix outdated regex syntex
+
 # FEATURES
 - download quizzes and practice quizzes.
 - download all video lectures;
